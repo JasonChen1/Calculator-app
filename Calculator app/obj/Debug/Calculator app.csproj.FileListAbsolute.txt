@@ -1,0 +1,9 @@
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\bin\Debug\Calculator app.exe.config
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\bin\Debug\Calculator app.exe
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\bin\Debug\Calculator app.pdb
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator app.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator_app.Form1.resources
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator_app.Properties.Resources.resources
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator app.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator app.exe
+C:\Users\Jason\Desktop\UNI WORK\Microsoft MSA\MSA project\Calculator app\Calculator app\obj\Debug\Calculator app.pdb
